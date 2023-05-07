@@ -7,71 +7,66 @@ import {
 import { faXing } from '@fortawesome/free-brands-svg-icons'
 
 export const contact = {
-  phone: '0123 1234567',
-  email: 'info@example.org',
-  xing: 'xing.com/profile/John_Doe',
+  phone: '0162 3092194',
+  email: 'consulting@eisenmann.it',
+  xing: 'xing.com/profile/Sascha_Eisenmann3',
   address: {
-    line1: 'Hauptstraße',
-    line2: '12345 Birbenhausen',
+    line1: 'Ina-Rothschild-Weg 30',
+    line2: '73732 Esslingen',
     line3: undefined,
   },
 }
 
 export const profile = {
   personal: {
-    name: 'John Doe',
-    jobTitle: 'Senior Smartass',
+    name: 'Sascha Eisenmann',
+    jobTitle: 'IT Consultant & Software Engineer',
     image: profileImage,
-    company: 'Team Chaos GmbH',
+    company: 'Sascha Eisenmann IT Consulting',
     insurance: {
       name: 'Hiscox SA',
       address: { street: ' Arnulfstraße 31', city: '80636 München' },
       scope: 'Germany',
     },
-    vatId: 'DE999999999',
+    vatId: 'DE359848841',
   },
   contact: [
     { icon: faPhone, value: contact.phone },
     { icon: faEnvelope, value: contact.email },
     { icon: faXing, value: contact.xing, type: 'link' },
-    { icon: faLocationDot, value: 'New York' },
+    { icon: faLocationDot, value: 'Esslingen' },
   ],
   competencies: {
-    Area1: [
-      { title: 'Competency 1', level: 100 },
-      { title: 'Competency 2', level: 80 },
+    Backend: [
+      { title: 'Java', level: 90 },
+      { title: 'Spring Boot', level: 85 },
+      { title: 'Camunda', level: 80 },
     ],
-    Area2: [
-      { title: 'Competency 3', level: 70 },
-      { title: 'Competency 4', level: 60 },
+    Frontend: [
+      { title: 'Javascript', level: 70 },
+      { title: 'Vue.js', level: 80 },
+      { title: 'React', level: 70 },
+    ],
+    DevOps: [
+      { title: 'Terraform', level: 80 },
+      { title: 'Kubernetes', level: 70 },
+      { title: 'AWS', level: 60 },
     ],
   },
   education: [
     {
-      title: 'Master of Disaster',
-      subtitle: 'Chaos University',
-      from: '2012',
-      to: '2015',
-    },
-    {
-      title: 'Bachelor of Disaster',
-      subtitle: 'Chaos University',
+      title: 'IT-Specialist in Systems Integration',
+      subtitle: 'it.schule Stuttgart',
       from: '2009',
       to: '2012',
     },
   ],
   certifications: [
     {
-      title: 'Extended Professional Smartass',
-      subtitle: 'PSA II',
-      authority: 'chaos.org',
+      title: 'Professional Scrum Master',
+      subtitle: 'PSM I',
+      authority: 'scrum.org',
       date: '03/2018',
-    },
-    {
-      title: 'Professional Smartass',
-      subtitle: 'PSA I',
-      authority: 'chaos.org',
-      date: '02/2015',
     },
   ],
 }
