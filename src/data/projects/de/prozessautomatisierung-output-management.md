@@ -3,6 +3,7 @@ role: Software Engineer
 title: Prozessautomatisierung Output Management
 sector: Lebensversicherung
 from: 2022-01-01
+to: 2023-04-30
 tasks:
   - Modellierung und Implementierung der BPMN-Prozesse
   - Entwicklung einer geeigneten Architektur
