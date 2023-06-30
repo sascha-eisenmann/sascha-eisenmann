@@ -1,14 +1,14 @@
 ---
 role: Software Engineer
-title: Migration Geschäftsprozesse
-sector: Lebensversicherung
+title: Business process migration
+sector: Life insurance
 from: 2019-01-01
 to: 2020-11-30
 tasks:
-  - Analyse der Geschäftsprozesse
-  - Modellierung und Implementierung der Prozesse und Schnittstellen
-  - Migration von Serviceanwendungen auf Spring Boot
-  - Umzug der Anwendungen in AWS / OpenShift
+  - Analysis of business processes
+  - Modeling and implementation of processes and interfaces
+  - Migration of service applications to Spring Boot
+  - Moving the applications to AWS / OpenShift
 tools:
   - Java 11
   - Spring Boot
@@ -21,4 +21,4 @@ tools:
   - Jenkins
 ---
 
-Migration von bestehenden in XML und XSLT implementierten Geschäftsprozessen in ausführbare BPMN Prozesse.
+Migration of existing business processes implemented in XML and XSLT into executable BPMN processes.

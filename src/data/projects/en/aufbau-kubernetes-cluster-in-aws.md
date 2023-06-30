@@ -1,13 +1,13 @@
 ---
 role: DevOps Engineer
-title: Aufbau Kubernetes Cluster in AWS
-sector: IT Consulting
+title: Building Kubernetes Clusters in AWS
+sector: IT-Consulting
 from: 2020-11-01
 to: 2021-01-31
 tasks:
-  - Auswahl der Tools für die Bereitstellung des Clusters
-  - Entwicklung der Terraform Konfiguration für die automatisierte Provisionierung des Clusters
-  - Aufbau einer Continuous Delivery Pipeline für das Deployment nach Kubernetes
+  - Selection of tools for cluster provisioning
+  - Development of a Terraform configuration for automated cluster provisioning
+  - Building a continuous delivery pipeline for deployment to Kubernetes
 tools:
   - AWS
   - Terraform
@@ -17,4 +17,4 @@ tools:
   - Github Actions
 ---
 
-Aufbau einer Testumgebung für den Betrieb mehrerer Applikationen auf Basis von Kubernetes. Da eine Hochverfügbarkeit für die Testumgebung nicht nötig war, wurde aus Kostengründen eine Alternative zu dem von AWS bereitgestellten Elastic Kubernetes Service gesucht.
+Setting up a test environment for running multiple applications based on Kubernetes. Since high availability was not necessary for the test environment, an alternative to the Elastic Kubernetes service provided by AWS was sought for cost reasons.

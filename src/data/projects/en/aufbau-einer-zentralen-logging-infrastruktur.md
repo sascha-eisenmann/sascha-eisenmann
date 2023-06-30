@@ -1,14 +1,14 @@
 ---
 role: DevOps Engineer
-title: Aufbau einer zentralen Logging Infrastruktur
-sector: Krankenversicherung
+title: Setting up a central logging infrastructure
+sector: Health insurance
 from: 2017-06-01
 to: 2018-12-31
 tasks:
-  - Auswahl der eingesetzten Technologien und Architektur
-  - Konfiguration der Infrastruktur (Elasticsearch, Logstash, Kibana, Kafka)
-  - Automatisierung der Infrastruktur Konfiguration
-  - Integration der ersten Anwendungen in die neue Platform
+  - Selection of technologies and architecture
+  - Configuration of the infrastructure (Elasticsearch, Logstash, Kibana, Kafka)
+  - Automation of the infrastructure configuration
+  - Integration of the first applications into the new platform
 tools:
   - Elasticsearch
   - Logstash
@@ -18,4 +18,4 @@ tools:
   - Internet Information Services
 ---
 
-Aufbau einer zentralen Infrastruktur für das Sammeln, Aufbewahren und Auswerten von Logausgaben aller wichtigen IT-Systeme.
+Establishing a central infrastructure for collecting, storing and evaluating log output from all key IT systems.

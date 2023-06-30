@@ -1,13 +1,13 @@
 ---
 role: DevOps Engineer
 title: Infrastructure as Code
-sector: Lebensversicherung
+sector: Life insurance
 from: 2021-09-01
 to: 2022-01-31
 tasks:
-  - Automatisierung der OpenShift Konfiguration mit ArgoCD
-  - Konfiguration der AWS Infrastruktur mit Terraform
-  - Integration aller Anwendungen in die bestehende Monitoring-Lösung
+  - Automation of OpenShift configuration with ArgoCD
+  - Configuration of AWS infrastructure with Terraform
+  - Integration of applications into the existing monitoring solution
 tools:
   - Java
   - Kotlin
@@ -25,4 +25,4 @@ tools:
   - Docker
 ---
 
-Umstellung der Infrastrukturkonfiguration auf "Infrastructure as Code", um Fehler beim Release zu vermeiden und eine einheitliche Konfiguration über alle sechs Umgebungen hinweg zu gewährleisten.
+Converting infrastructure configuration to "Infrastructure as Code" to avoid release errors and ensure consistent configuration across all six environments.

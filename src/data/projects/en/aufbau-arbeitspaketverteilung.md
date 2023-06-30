@@ -1,13 +1,13 @@
 ---
 role: Software Engineer
-title: Aufbau einer intelligenten Arbeitspaketverteilung
-sector: Verwertungsgesellschaft
+title: Development of an intelligent work package distribution
+sector: Collection society
 from: 2022-05-01
 tasks:
-  - Aufbau eines Micro-Frontends für die Verteilung der Arbeitspakete
-  - Unterstützung von anderen Entwicklern beim der Arbeit mit Angular
-  - Implementierung einer Recommendation-Engine zur automatischen Verteilung
-  - Automatisierung des Deployments auf GCP (Cloud Run, Cloud SQL)
+  - Building a micro frontend for the distribution of work packages
+  - Supporting other developers in working with Angular
+  - Implementation of a recommendation engine for automatic distribution
+  - Automation of deployment to GCP (Cloud Run, Cloud SQL)
 tools:
   - Angular
   - TypeScript
@@ -22,6 +22,6 @@ tools:
   - Github Actions
 ---
 
-Um die Verteilung von kleinen Arbeitspakten auf verschiedene Teams zu optimieren, sollte eine Anwendung entwickelt werden, die es den Teamleitern ermöglicht, die Arbeitspakte möglichst einfach auf ihre Teams zu verteilen.
+An application to optimise the distribution of work packages across teams was developed. It enabled team leaders to distribute the work packages to their teams as easily as possible.
 
-Zusätzlich zu einer Webanwendung für die Verteilung wurde eine Recommendation-Engine entwickelt, die auf Basis der vorgegebenen Kapazitäten eine optimale Verteilung der Arbeitspakete vorschlägt und dabei den möglichen Profit und die Arbeitsbelastung für die Mitarbeiter berücksichtigt.
+In addition a recommendation engine was developed that suggests an optimal distribution of work packages based on the given capacities, taking into account the possible profit and the workload for the employees.

@@ -1,14 +1,14 @@
 ---
 role: Lead Developer
-title: Mitarbeiter Self-Service-Portal
-sector: Krankenversicherung
+title: Employees Self-Service Portal
+sector: Health insurance
 from: 2017-10-01
 to: 2028-12-31
 tasks:
-  - Evaluierung und Auswahl der Technologien
-  - Modellierung und Implementierung der BPMN Prozesse mit Camunda
-  - Aufbau und Betreuung der Continuous Delivery Pipeline
-  - Implementierung des Frontend
+  - Evaluation and selection of technologies
+  - Modeling and implementation of BPMN processes with Camunda
+  - Setup and support of the Continuous Delivery Pipeline
+  - Implementation of the frontend
 tools:
   - Kotlin
   - Spring Boot
@@ -20,4 +20,4 @@ tools:
   - PowerShell
 ---
 
-Entwicklung eines Portals zur Automatisierung von Regelprozessen.
+Development of a portal for the automation of standard processes.
