@@ -1,16 +1,16 @@
 ---
 role: Frontend Developer
-title: Aufbau Unternehmenswebseite
-sector: IT-Beratung
+title: Building corporate website
+sector: IT-Consulting
 from: 2021-12-01
 to: 2022-10-31
 tasks:
-  - Implementierung von Figma Designs
-  - Entwicklung von einfach wiederverwendbaren Komponenten
-  - Implementierung der benötigen Seiten mit Content aus Gatsby und Netlify CMS
-  - Konfiguration des Netlify CMS für die Verwendung mit Gatsby und AWS
-  - Automatisierung des Deployments auf S3, CloudFront und Lambda mit Github Actions
-  - Integration von Hubspot Formularen für die Leadgenerierung
+  - Implementation of Figma designs
+  - Development of easily reusable components
+  - Implementation of the required pages with content from Gatsby and Netlify CMS
+  - Configuration of Netlify CMS for use with Gatsby and AWS
+  - Automation of deployment to S3, CloudFront, and Lambda with Github Actions
+  - Integration of Hubspot forms for lead generation
 tools:
   - React
   - Typescript
@@ -25,6 +25,6 @@ tools:
   - Podlove Web Player
 ---
 
-Die Webseite des Unternehmens sollte neu aufgebaut werden. Dafür wurden, mithilfe eines externen Designers, die benötigten Seiten in Figma erstellt und mit dem Kunden abgenommen.
-Aus diesen Designs wurden dann wiederverwendbare Komponenten entwickelt, damit zukünftige Seiten schnell aus vorhandenen Bausteinen zusammengesetzt werden können.
-Für die Verwaltung von dynamischen Inhalten, wie z.B. Blogposts, Podcasts und Mitarbeiterprofilen wurde Netlify CMS eingesetzt und das Deployment erfolgte in der bereits vorhanden AWS Infrastruktur.
+The company's website was rebuilt. With the help of an external designer the required pages were created in Figma and approved with the customer.
+Reusable components were then developed from these designs so that future pages could be quickly assembled from existing building blocks.
+Netlify CMS was used to manage dynamic content such as blog posts, podcasts, and employee profiles. Deployment was done on the existing AWS infrastructure.

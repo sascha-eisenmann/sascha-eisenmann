@@ -1,15 +1,15 @@
 ---
 role: Lead Developer
-title: Entwicklung Agile Toolbox
-sector: IT-Beratung
+title: Agile Toolbox Development
+sector: IT-Consulting
 from: 2020-01-01
 to: 2021-11-30
 tasks:
-  - Auswahl von geeigneten Technologien für die verschiedenen Anwendungsfälle
-  - Entwurf von ersten Prototypen mit den verantwortlichen Stakeholdern
-  - Implementierung des Backends mit Spring Boot
-  - Implementierung des Frontends mit Vue.js
-  - Mentoring von Junior Entwicklern
+  - Selection of suitable technologies for different
+  - Design of first prototypes with the responsible stakeholders
+  - Implementation of the backend with Spring Boot
+  - Implementation of the frontend with Vue.js
+  - Mentoring of junior developers
 tools:
   - Java
   - Spring Boot
@@ -21,4 +21,4 @@ tools:
   - WebSocket
 ---
 
-Entwicklung von Webanwendungen zur Unterstützung der agilen Zusammenarbeit von Teams (z.B. für Planning Poker, Team Health Checks, Task Management, Weiterbildung).
+Development of web applications to support agile team collaboration (e.g. for planning poker, team health checks, task management, training).

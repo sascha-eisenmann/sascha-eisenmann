@@ -1,14 +1,14 @@
 ---
 role: Software Engineer
-title: Prozessautomatisierung Output Management
-sector: Lebensversicherung
+title: Process Automation Output Management
+sector: Life insurance
 from: 2022-01-01
 to: 2023-04-30
 tasks:
-  - Modellierung und Implementierung der BPMN-Prozesse
-  - Entwicklung einer geeigneten Architektur
-  - Konfiguration und Anpassung der Camunda Engine für die besonderen Bedürfnisse des Projekts
-  - Aufbau der Cloudinfrastruktur
+  - Modeling and implementation of BPMN processes
+  - Development of a suitable architecture
+  - Configuration and customization of the Camunda engine for project's specific needs
+  - Setup of the cloud infrastructure
 tools:
   - Java 17
   - Kotlin
@@ -22,4 +22,4 @@ tools:
   - Jenkins
 ---
 
-Überführung der auf Host-Jobs basierenden Massenverarbeitung des Output-Management-Systems auf eine moderne Camunda Prozessanwendung.
+Transfer of the mass processing service which was previously based on host jobs to a modern Camunda process application.

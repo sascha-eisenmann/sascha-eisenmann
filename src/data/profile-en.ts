@@ -50,7 +50,8 @@ export const profile = {
     DevOps: [
       { title: 'Terraform', level: 80 },
       { title: 'Kubernetes', level: 70 },
-      { title: 'AWS', level: 60 },
+      { title: 'Github Actions', level: 60 },
+      { title: 'AWS', level: 50 },
     ],
   },
   education: [
