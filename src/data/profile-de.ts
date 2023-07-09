@@ -44,8 +44,9 @@ export const profile = {
     ],
     Frontend: [
       { title: 'Javascript', level: 70 },
-      { title: 'Vue.js', level: 80 },
-      { title: 'React', level: 70 },
+      { title: 'React', level: 80 },
+      { title: 'Angular', level: 70 },
+      { title: 'Vue.js', level: 70 },
     ],
     DevOps: [
       { title: 'Terraform', level: 80 },
