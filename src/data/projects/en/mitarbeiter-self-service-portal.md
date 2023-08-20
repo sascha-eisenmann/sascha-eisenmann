@@ -3,7 +3,7 @@ role: Lead Developer
 title: Employees Self-Service Portal
 sector: Health insurance
 from: 2017-10-01
-to: 2028-12-31
+to: 2018-12-31
 tasks:
   - Evaluation and selection of technologies
   - Modeling and implementation of BPMN processes with Camunda

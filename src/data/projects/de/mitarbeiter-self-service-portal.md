@@ -3,7 +3,7 @@ role: Lead Developer
 title: Mitarbeiter Self-Service-Portal
 sector: Krankenversicherung
 from: 2017-10-01
-to: 2028-12-31
+to: 2018-12-31
 tasks:
   - Evaluierung und Auswahl der Technologien
   - Modellierung und Implementierung der BPMN Prozesse mit Camunda
