@@ -1,7 +1,7 @@
 ---
 role: Lead Developer
 title: Prozessautomatisierung
-sector: Behörde
+sector: Bundesbehörde
 from: 2020-11-01
 to: 2021-12-31
 tasks:
