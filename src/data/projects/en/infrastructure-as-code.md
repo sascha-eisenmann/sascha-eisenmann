@@ -1,6 +1,6 @@
 ---
 role: DevOps Engineer
-title: Infrastructure as Code
+title: Migration to Infrastructure as Code
 sector: Life insurance
 from: 2021-09-01
 to: 2022-01-31
