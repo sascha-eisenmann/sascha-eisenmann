@@ -10,7 +10,7 @@ export const contact = {
   phone: '0162 3092194',
   email: 'consulting@eisenmann.it',
   xing: 'xing.com/profile/Sascha_Eisenmann3',
-  address: { street: 'Ina-Rothschild-Weg 30', zip: '73732', city: 'Esslingen' },
+  address: { street: 'Bismarckstr. 14', zip: '71634', city: 'Ludwigsburg' },
 }
 
 export const profile = {
