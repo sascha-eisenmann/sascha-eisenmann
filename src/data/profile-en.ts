@@ -11,8 +11,8 @@ export const contact = {
   email: 'consulting@eisenmann.it',
   xing: 'xing.com/profile/Sascha_Eisenmann3',
   address: {
-    line1: 'Ina-Rothschild-Weg 30',
-    line2: '73732 Esslingen',
+    line1: 'Bismarckstr. 14',
+    line2: '71634 Ludwigsburg',
     line3: undefined,
   },
 }
@@ -34,7 +34,7 @@ export const profile = {
     { icon: faPhone, value: contact.phone },
     { icon: faEnvelope, value: contact.email },
     { icon: faXing, value: contact.xing, type: 'link' },
-    { icon: faLocationDot, value: 'Esslingen' },
+    { icon: faLocationDot, value: 'Ludwigsburg' },
   ],
   competencies: {
     Backend: [
