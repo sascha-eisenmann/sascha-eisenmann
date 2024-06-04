@@ -3,6 +3,7 @@ role: Software Engineer
 title: Aufbau einer intelligenten Arbeitspaketverteilung
 sector: Verwertungsgesellschaft
 from: 2023-05-01
+to: 2023-12-31
 tasks:
   - Aufbau eines Micro-Frontends für die Verteilung der Arbeitspakete
   - Unterstützung von anderen Entwicklern beim der Arbeit mit Angular
