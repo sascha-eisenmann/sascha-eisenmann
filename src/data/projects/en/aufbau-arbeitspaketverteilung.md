@@ -1,8 +1,9 @@
 ---
 role: Software Engineer
 title: Development of an intelligent work package distribution
-sector: Collection society
+sector: Digital Rights Management
 from: 2023-05-01
+to: 2023-12-31
 tasks:
   - Building a micro frontend for the distribution of work packages
   - Supporting other developers in working with Angular
