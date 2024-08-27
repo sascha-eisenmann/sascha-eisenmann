@@ -3,6 +3,7 @@ role: Consultant
 title: Unterstützung Prozessautomatisierung / DevOps
 sector: Versicherung
 from: 2023-12-01
+to: 2024-08-31
 tasks:
   - Unterstützung bei der Nutzung von Camunda
   - Erarbeitung von Konzepten zur Prozessautomatisierung
