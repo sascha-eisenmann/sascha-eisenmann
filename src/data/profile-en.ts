@@ -11,9 +11,9 @@ export const contact = {
   email: 'consulting@eisenmann.it',
   xing: 'xing.com/profile/Sascha_Eisenmann3',
   address: {
-    line1: 'Bismarckstr. 14',
-    line2: '71634 Ludwigsburg',
-    line3: undefined,
+    line1: 'Building A2 IFZA Business Park',
+    line2: 'Dubai Silicon Oasis',
+    line3: 'United Arab Emirates',
   },
 }
 
@@ -22,19 +22,19 @@ export const profile = {
     name: 'Sascha Eisenmann',
     jobTitle: 'IT Consultant & Software Engineer',
     image: profileImage,
-    company: 'Sascha Eisenmann IT Consulting',
+    company: 'Eisenmann IT Consulting - FZCO',
     insurance: {
       name: 'Hiscox SA',
       address: { street: ' Arnulfstraße 31', city: '80636 München' },
       scope: 'Germany',
     },
-    vatId: 'DE359848841',
+    vatId: undefined,
   },
   contact: [
     { icon: faPhone, value: contact.phone },
     { icon: faEnvelope, value: contact.email },
     { icon: faXing, value: contact.xing, type: 'link' },
-    { icon: faLocationDot, value: 'Ludwigsburg' },
+    { icon: faLocationDot, value: 'Dubai' },
   ],
   competencies: {
     Backend: [
